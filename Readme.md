@@ -4,6 +4,10 @@ This project demonstrates a simple implementation of linear regression using a s
 
 ## Output
 
+
+https://github.com/sarvesh-2109/Linear-Regression-Single-Variable/assets/113255836/c3b98aa5-c98b-41b9-adc4-bfaf40b24fd1
+
+
 ## Project Overview
 
 The objective of this project is to use linear regression to predict the per capita income of Canada in 2024 based on historical data. The analysis is performed using Python and several libraries, including pandas, numpy, matplotlib, and scikit-learn.
